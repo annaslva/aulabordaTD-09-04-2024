@@ -1,0 +1,53 @@
+
+
+.solid
+{
+    border-style: solid groove dotted double;
+    border-width: 20px 5px 100px 200px;
+    border-color: pink blue purple yellow; 
+}
+
+.groove
+{
+    border: 5px solid plum
+}
+
+.dotted
+{
+    border-style: dotted;
+}
+
+.dashed
+{
+    border-style: dashed;
+}
+
+.double
+{
+    border-style: double;
+}
+
+.ridge
+{
+    border-style: ridge;
+}
+
+.inset
+{
+    border-style: inset;
+}
+
+.outset 
+{
+    border-style: outset;
+}
+
+.none
+{
+    border-style: none;
+}
+
+.hidden
+{
+    border-style: hidden;
+}
